@@ -83,3 +83,5 @@ These files are the background image to be used according to card reference and 
 
 These files trademark line will be masked when using the Frame visual over it.
 
+Some visuals have white zones which will be invisible once the corresponding frame is applied on top of it.
+

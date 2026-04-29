@@ -2,7 +2,9 @@
 
 This repository contains all the graphical files to be used in a card builder for the Altered TCG.
 
-**TODO** : Add link to non-unique and unique JSON exports repositories.
+## Icons
+
+The fonts provided here are free to use. Other fonts like Haptic Pro and Jalli Greek cannot be included due to license restrictions.
 
 ## Frames
 
@@ -25,6 +27,10 @@ For CHARACTER, SPELL and PERMANENT:
 
 For TOKEN and HERO:
 -	T1 only
+
+## Icons
+
+Theses visuals are specific to each and each rarity. They are to be placed on top of the corresponding frame.
 
 
 ## Attributes
@@ -77,14 +83,3 @@ These files are the background image to be used according to card reference and 
 
 These files trademark line will be masked when using the Frame visual over it.
 
-Structure is the following:
-
-```
-assets/
-  <SET>/
-    CARDS/
-      <CARD_ID>/
-        JPG/
-          <LANGUAGE>/
-            <hash>.jpg
-```

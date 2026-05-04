@@ -2,7 +2,7 @@
 
 This repository contains all the graphical files to be used in a card builder for the Altered TCG.
 
-## Icons
+## Fonts
 
 The fonts provided here are free to use. Other fonts like Haptic Pro and Jalli Greek cannot be included due to license restrictions.
 
